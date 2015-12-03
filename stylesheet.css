@@ -116,3 +116,43 @@ body {
   top: -35px;
   right: -220px;
 }
+
+#button {
+  width: 230px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#button input{
+  height: 35px;
+  border: 1px solid #F2F2F2;
+  background-color: #F2F2F2;
+  border-radius: 2px;
+}
+
+#button:nth-child(1) {
+
+}
+
+#button:nth-child(2) {
+
+}
+
+#alternative {
+  width: 180px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 20px;
+}
+
+#bottomnavbar {
+  width: 100%
+  height: 40px;
+  position: fixed;
+  display: block;
+  bottom: 40px;
+  background-color: #000;
+  border: 1px solid #000;
+}
