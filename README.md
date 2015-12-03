@@ -1,2 +1,5 @@
 # google-homepage
-HTML and CSS Project for The Odin Project
+HTML/CSS project for The Odin Project
+
+The project description can be found at:
+http://www.theodinproject.com/web-development-101/html-css
